@@ -1,0 +1,12 @@
+C:\Users\d4njk0m\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\d4njk0m\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\d4njk0m\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\d4njk0m\source\repos\WindowsApp1\WindowsApp1\obj\Debug\Цветочки.Form1.resources
+C:\Users\d4njk0m\source\repos\WindowsApp1\WindowsApp1\obj\Debug\Цветочки.Resources.resources
+C:\Users\d4njk0m\source\repos\WindowsApp1\WindowsApp1\bin\Debug\Цветочки.exe.config
+C:\Users\d4njk0m\source\repos\WindowsApp1\WindowsApp1\bin\Debug\Цветочки.exe
+C:\Users\d4njk0m\source\repos\WindowsApp1\WindowsApp1\bin\Debug\Цветочки.pdb
+C:\Users\d4njk0m\source\repos\WindowsApp1\WindowsApp1\bin\Debug\Цветочки.xml
+C:\Users\d4njk0m\source\repos\WindowsApp1\WindowsApp1\obj\Debug\Цветочки.exe
+C:\Users\d4njk0m\source\repos\WindowsApp1\WindowsApp1\obj\Debug\Цветочки.xml
+C:\Users\d4njk0m\source\repos\WindowsApp1\WindowsApp1\obj\Debug\Цветочки.pdb
